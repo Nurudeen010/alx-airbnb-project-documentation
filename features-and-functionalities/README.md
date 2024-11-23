@@ -1,1 +1,0 @@
-# Functionalities and Features Documentation
